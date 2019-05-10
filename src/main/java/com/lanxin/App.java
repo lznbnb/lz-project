@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args )
     { //改试试
-        系统。出.println（“Hello  World！”）;
+        222系统。出.println（“Hello  World！”）;
         SpringApplication.run(App.class,args);
     }
 }
